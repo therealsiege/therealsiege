@@ -1,12 +1,12 @@
 ### Hi, I'm CJ 👋
 
-I’ve been creating SaaS products for 15 years in a number of industries both regulated and not. I wear many 🧢
+I’ve been creating SaaS products for 15 years in a number of industries both regulated and not. 🔭 Currently I'm working on a number of projects in the healthcare data industry.
 
-🔭 Currently I'm working on a number of projects in the healthcare data industry.
+Most recently I'm the co-creator and CTO of 1PuttHealth. Our latest interoperability middleware solution, [ModernHL7](https://modernhl7.com), enables users to surface value from legacy technologies common to healthcare. We are getting ready to soft launch 📻 stay tuned!
 
-Most notably I'm the co-creator and CTO of 1PuttHealth. Our latest interoperability middleware solution, [ModernHL7](https://modernhl7.com), enables users to surface value from legacy technologies common to healthcare. 
+In the past I've led engineering, architecture, technical product management, research and developement at a number of tech companies. I listed some highlights below. 
 
-We are currently soft launching to our influencers and channel partners.
+If you'd like to contact me I've listed my information at the bottom.
 
 ### ⚡ CV Highlights
 - [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa FHIR Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io).
@@ -46,10 +46,12 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/node/node-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cloudformation/cloudformation-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/aws/aws-ar21.svg"></code>
 </p>
