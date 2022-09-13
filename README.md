@@ -19,9 +19,9 @@ If you'd like to contact me I've listed my information at the bottom.
 - Supply chain management b2b tooling for Wish.com, and Tophatter.com platforms
 
 ### 📫 Advisory Services
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)]
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)]
-[![GrizzlyDev](https://dev.grizzlydev.com)]
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
+[![https://dev.grizzlydevelopment.com/static/media/grizzlydev.logo.db00b120.png](https://dev.grizzlydev.com)
 
 #### Social Handles
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)]
