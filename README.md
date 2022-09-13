@@ -27,11 +27,13 @@ If you'd like to contact me I've listed my information at the bottom.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealsiege&langs_count=8)](https://github.com/therealsiege/github-readme-stats)
+
 
 **Languages and Tools** 
 <p>
   <a href="https://github.com/therealsiege">
-    <img width="55%" align="right" alt="CJ's github stats" src="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+    <img width="55%" align="right" alt="CJ's github stats" src="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true&hide_border=true&count_private=true" />
   </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
