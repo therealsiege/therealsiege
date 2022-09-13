@@ -20,7 +20,7 @@ If you'd like to contact me I've listed my information at the bottom.
 
 ### 📫 Advisory Services
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
+[!Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 [!GrizzlyDev](https://dev.grizzlydev.com)
 
 #### Social Handles
