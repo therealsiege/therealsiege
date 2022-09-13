@@ -9,7 +9,7 @@ In the past I've led engineering, architecture, technical product management, re
 If you'd like to contact me I've listed my information at the bottom.
 
 ### ⚡ CV Highlights
-- [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa FHIR Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io).
+- [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa FHIR Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io)).
 - [1UpHealth](https://1up.health/) (I built the ingestion tooling for the clinical data repository)
 - The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html). 
 - Amazon.com's consumer electronics trade in platform
