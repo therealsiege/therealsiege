@@ -21,7 +21,7 @@ If you'd like to contact me I've listed my information at the bottom.
 ### 📫 Advisory Services
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
-[![GrizzlyDev](https://dev.grizzlydevelopment.com/static/media/grizzlydev.logo.db00b120.png){:height="20%" width="20%"}](https://dev.grizzlydev.com)
+[![GrizzlyDev](https://dev.grizzlydevelopment.com/static/media/grizzlydev.logo.db00b120.png){width=250}](https://dev.grizzlydev.com)
 #### Social Handles
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)]
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
