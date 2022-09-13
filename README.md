@@ -19,71 +19,36 @@ If you'd like to contact me I've listed my information at the bottom.
 - Supply chain management b2b tooling for Wish.com, and Tophatter.com platforms
 
 ### 📫 Contact
-For advisory services
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 
-#### Social Handles
+#### Social
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 
 
-
-**Languages and Tools:** 
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
+**Languages and Tools** 
 <p>
   <a href="https://github.com/therealsiege">
-    <img width="55%" align="right" alt="CJ's github stats" src="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="CJ's github stats" src="https://github-readme-stats.vercel.app/api username=therealsiege&show_icons=true&hide_border=true" />
   </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
-
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
   <br />
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <br />
-  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <br />
-  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/intercom/intercom-ar21.svg"></code>
   <br />
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ghost/ghost-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/eslint/eslint-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"></code>
-  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/intercom/intercom-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/eggheadio/eggheadio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>  
 </p>
