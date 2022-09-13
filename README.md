@@ -18,15 +18,14 @@ If you'd like to contact me I've listed my information at the bottom.
 - The seller services platform for Ebay.com
 - Supply chain management b2b tooling for Wish.com, and Tophatter.com platforms
 
-### 📫 Advisory Services
+### 📫 Contact
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
-[![Braided.IO](https://braided.io/images/favicon.ico)](https://braided.io)
-[![GrizzlyDev](https://dev.grizzlydevelopment.com/favicon.ico)](https://dev.grizzlydevelopment.com) 🚧 In Progress: Excuse the Dust
-
-#### Social Handles
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
+
+[![Braided.IO](https://braided.io/images/favicon.ico)](https://braided.io)
+[![GrizzlyDev](https://dev.grizzlydevelopment.com/favicon.ico)](https://dev.grizzlydevelopment.com) 🚧 In Progress: Excuse the Dust
 
 **Languages and Tools** 
 <p>
