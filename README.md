@@ -1,23 +1,28 @@
-### 👋 Hi, I'm CJ 
+### 👋 Hi, I'm CJ
 
-I’ve been creating SaaS products for 15 years in a number of industries both regulated and not. 
+Thanks for checking out my profile!
+
+I’ve been creating SaaS products for 15 years many of those in regulated and gov't industries.
 <br /><br />
-🔭 Currently I'm working on a number of projects in the healthcare data industry.
+🔭 Currently I'm working on a number of opportunities in the healthcare data industry.
 <br /><br />
-Most recently I'm the co-creator of [ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare. 📻 We are getting ready to launch, stay tuned!
+Most recently I created [ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned!
 
 In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below.
 
 ### ⚡ CV Highlights
 
-- [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa "NoCode" Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io)).
+
+- [ModernHL7](https://modernhl7.com/) - 🏗️ Coming Soon!
 - [1UpHealth](https://1up.health/) (I built the ingestion tooling for the clinical data repository)
-- The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
+- [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Acquired by [HealthChannels](https://www.scribeamerica.com/)) Rosa "NoCode" Interoperability Middleware Engine, and Bridge's original platform (acquired by [Braided Technologies](https://braided.io)).
 - Amazon.com's consumer electronics trade in platform
 - Amazon.com's text book rental platform
 - The Kindle kiosk POS system in Whole Foods
 - The seller services platform for Ebay.com
 - Supply chain management b2b tooling for Wish.com, and Tophatter.com platforms
+- The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
+
 
 ### 📫 Contact
 
