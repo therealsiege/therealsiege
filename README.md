@@ -13,7 +13,7 @@ In the past I've led engineering, architecture, technical product management, an
 ### ⚡ CV Highlights
 
 
-- [ModernHL7](https://modernhl7.com/) - 🏗️ Coming Soon!
+- <a href="http://modernhl7.com/" target="_blank">ModernHL7</a> - 🏗️ Coming Soon!
 - [1UpHealth](https://1up.health/) (I built the ingestion tooling for the clinical data repository)
 - [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Acquired by [HealthChannels](https://www.scribeamerica.com/)) Rosa "NoCode" Interoperability Middleware Engine, and Bridge's original platform (acquired by [Braided Technologies](https://braided.io)).
 - Amazon.com's consumer electronics trade in platform
