@@ -6,9 +6,7 @@ I’ve been creating SaaS products for 15 years in a number of industries both r
 <br /><br />
 Most recently I'm the co-creator of [ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare. 📻 We are getting ready to launch, stay tuned!
 
-In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below. 
-
-If you'd like to contact me I've listed my information at the bottom.
+In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below. If you'd like to contact me I've listed my information in the section following.
 
 ### ⚡ CV Highlights
 - [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa FHIR Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io)).
