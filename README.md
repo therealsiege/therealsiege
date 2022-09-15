@@ -24,10 +24,6 @@ If you'd like to contact me I've listed my information at the bottom.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 <br />
-[![Braided.IO](https://braided.io/images/favicon.ico)](https://braided.io)
-[![GrizzlyDev](https://dev.grizzlydevelopment.com/favicon.ico)](https://dev.grizzlydevelopment.com)
-
-**Languages and Tools** 
 <p>
   <a href="https://github.com/therealsiege">
     <img width="55%" align="right" alt="CJ's github stats" src="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true&hide_border=true&count_private=true" />
