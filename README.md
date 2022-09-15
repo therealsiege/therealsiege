@@ -13,7 +13,7 @@ If you'd like to contact me I've listed my information at the bottom.
 ### ⚡ CV Highlights
 - [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa FHIR Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io)).
 - [1UpHealth](https://1up.health/) (I built the ingestion tooling for the clinical data repository)
-- The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html). 
+- The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
 - Amazon.com's consumer electronics trade in platform
 - Amazon.com's text book rental platform
 - The Kindle kiosk POS system in Whole Foods
@@ -48,6 +48,10 @@ If you'd like to contact me I've listed my information at the bottom.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/intercom/intercom-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/intercom/intercom-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></code>
 </p>
