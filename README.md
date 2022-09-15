@@ -1,7 +1,9 @@
 ### 👋 Hi, I'm CJ 
 
-I’ve been creating SaaS products for 15 years in a number of industries both regulated and not. 🔭 Currently I'm working on a number of projects in the healthcare data industry.
-
+I’ve been creating SaaS products for 15 years in a number of industries both regulated and not. 
+<br />
+🔭 Currently I'm working on a number of projects in the healthcare data industry.
+<br />
 Most recently I'm the co-creator and CTO of 1PuttHealth. Our latest interoperability middleware solution, [ModernHL7](https://modernhl7.com), enables users to surface value from legacy technologies common to healthcare. We are getting ready to soft launch 📻 stay tuned!
 
 In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below. 
