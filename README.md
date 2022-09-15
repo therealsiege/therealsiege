@@ -9,6 +9,7 @@ Most recently I'm the co-creator of [ModernHL7](https://modernhl7.com), an inter
 In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below.
 
 ### ⚡ CV Highlights
+
 - [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa "NoCode" Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io)).
 - [1UpHealth](https://1up.health/) (I built the ingestion tooling for the clinical data repository)
 - The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
@@ -20,14 +21,14 @@ In the past I've led engineering, architecture, technical product management, an
 
 ### 📫 Contact
 
-If you'd like to contact me I've listed my information below. 
-<br />
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 <br />
+
 ### 🧰 Languages and Tools
+
 <p>
   <a href="https://github.com/therealsiege">
     <img width="55%" align="right" alt="CJ's github stats" src="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true&hide_border=true&count_private=true" />
