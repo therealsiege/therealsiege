@@ -6,10 +6,10 @@ I’ve been creating SaaS products for 15 years in a number of industries both r
 <br /><br />
 Most recently I'm the co-creator of [ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare. 📻 We are getting ready to launch, stay tuned!
 
-In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below. If you'd like to contact me I've listed my information in the section following.
+In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below.
 
 ### ⚡ CV Highlights
-- [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa FHIR Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io)).
+- [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (Now [HealthChannel's](https://www.scribeamerica.com/)) Rosa "NoCode" Interoperability Middleware Engine, and Bridge's original platform (bought by [Braided Technologies](https://braided.io)).
 - [1UpHealth](https://1up.health/) (I built the ingestion tooling for the clinical data repository)
 - The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
 - Amazon.com's consumer electronics trade in platform
@@ -19,6 +19,9 @@ In the past I've led engineering, architecture, technical product management, an
 - Supply chain management b2b tooling for Wish.com, and Tophatter.com platforms
 
 ### 📫 Contact
+
+If you'd like to contact me I've listed my information below. 
+<br />
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
