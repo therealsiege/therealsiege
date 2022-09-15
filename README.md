@@ -4,7 +4,7 @@ I’ve been creating SaaS products for 15 years in a number of industries both r
 
 Most recently I'm the co-creator and CTO of 1PuttHealth. Our latest interoperability middleware solution, [ModernHL7](https://modernhl7.com), enables users to surface value from legacy technologies common to healthcare. We are getting ready to soft launch 📻 stay tuned!
 
-In the past I've led engineering, architecture, technical product management, research and developement at a number of tech companies. I listed some highlights below. 
+In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below. 
 
 If you'd like to contact me I've listed my information at the bottom.
 
