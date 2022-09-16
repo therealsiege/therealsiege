@@ -32,7 +32,7 @@ In the past I've led engineering, architecture, technical product management, an
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 <br />
 
-### 🧰 Languages and Tools
+### 🧰 Favorite Languages and Tools
 
 <p>
   <a href="https://github.com/therealsiege">
