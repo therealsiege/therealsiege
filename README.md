@@ -4,7 +4,7 @@ Thanks for checking out my profile!
 
 I’ve been creating SaaS products for 15 years many of those in regulated and gov't industries.
 <br /><br />
-🔭 Currently I'm working on a number of opportunities in the healthcare data industry.
+🔭 Currently I'm working on a number of opportunities in the ⚕️healthcare data industry.
 <br /><br />
 Most recently I created [ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned!
 
