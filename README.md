@@ -2,25 +2,23 @@
 
 Thanks for checking out my profile!
 
-I’ve been creating SaaS products for 15 years many of those in regulated and gov't industries.
+I’ve been creating SaaS products for 15 years, many of those in regulated and gov't industries.
 <br /><br />
-Most recently I created [ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned!
+:comet: Most recently, I created <img src="https://modernhl7.com/static/media/GoodbyeHL7Logo.1d5c4b476dbe518d5d3b.png" height="16">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned!
 
-In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below.
+:technologist: In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below.
 
 ### ⚡ CV Highlights
 
-
-- <a href="http://modernhl7.com/" target="_blank">ModernHL7</a> - 🏗️ Coming Soon!
-- [1UpHealth](https://1up.health/) (ingestion tooling for the clinical data repository)
-- [Bridge Connector's](https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html) (acquired by [HealthChannels](https://www.scribeamerica.com/)) "NoCode" Interoperability Middleware Engine, and Bridge's original interoperability SaaS platform (acquired by [Braided Technologies](https://braided.io)).
-- Amazon.com's consumer electronics trade in platform
-- Amazon.com's text book rental platform
-- The Kindle kiosk POS system in Whole Foods
-- The seller services platform for Ebay.com
-- Supply chain management b2b tooling for Wish.com, and Tophatter.com platforms
+- <img src="https://modernhl7.com/static/media/GoodbyeHL7Logo.1d5c4b476dbe518d5d3b.png" width="16"><a href="http://modernhl7.com/" target="_blank">ModernHL7</a> - 🏗️ Coming Soon!
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTerQH_Jy693DezkHGpLNDK-xmURbRpL8u-Z8wz0cvtww&s" height="15"> <a href="https://1up.health/" target="_blank">1UpHealth</a>(ingestion tooling for the clinical data repository)
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"><a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's</a>(acquired by [HealthChannels](https://www.scribeamerica.com/)) FHIR Interoperability Middleware Engine, and Bridge's original interoperability SaaS platform (acquired by [Braided Technologies](https://braided.io)).
+- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Amazon.com's consumer electronics trade in platform
+- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Amazon.com's text book rental platform
+- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> The Kindle kiosk POS system in Whole Foods
+- The seller services platform for <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png" height="20">
+- Supply chain management b2b tooling for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wish_logo.svg/1200px-Wish_logo.svg.png" height="15"> and <img src="https://cdn2.hubspot.net/hubfs/2427805/TH_Logo_H@3x-1.png" height="15">
 - The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
-
 
 ### 📫 Contact
 
@@ -28,7 +26,6 @@ In the past I've led engineering, architecture, technical product management, an
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
-<br />
 
 ### 🧰 Favorite Languages and Tools
 
