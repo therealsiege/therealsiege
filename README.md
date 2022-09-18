@@ -16,7 +16,7 @@ I’ve been creating SaaS products for 15 years, many of those in regulated and 
 - <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Consumer electronics trade in platform
 - <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Text book rental platform
 - <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Kindle kiosk POS system in Whole Foods
-- The seller services platform for <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png" height="20">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png" height="20"> Seller services platform
 - Supply chain management b2b tooling for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wish_logo.svg/1200px-Wish_logo.svg.png" height="15"> and <img src="https://cdn2.hubspot.net/hubfs/2427805/TH_Logo_H@3x-1.png" height="15">
 - The four flagship predictive analytics products for [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
 
