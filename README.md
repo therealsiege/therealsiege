@@ -2,9 +2,11 @@
 
 Thanks for checking out my profile!
 
-:technologist: I’ve been creating SaaS products for 15 years, many of those in regulated and gov't industries.  I have an amazing wife, two awesome kids and two lazy dogs, we currently live in Nashville TN. In my spare time, I can be found playing golf :golf: or training :shark: jiu jitsu.
+:technologist: I’ve been creating SaaS products for 15 years, many of those in regulated and gov't industries.
 <br /><br />
-:comet: Most recently, I created <img src="https://modernhl7.com/static/media/GoodbyeHL7Logo.1d5c4b476dbe518d5d3b.png" height="16">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned!
+:comet: Most recently, I created <img src="https://modernhl7.com/static/media/GoodbyeHL7Logo.1d5c4b476dbe518d5d3b.png" height="16">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned! 
+<br /><br />
+Outside of work, I have a wife, two kids and two dogs. We live in Nashville TN, and in my spare time I like to :golf: and train 🥋 jiu jitsu. 
 <br /><br />
 :coffee: In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. 
 <br /><br />
