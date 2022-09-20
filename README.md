@@ -11,7 +11,7 @@ Thanks for checking out my profile!
 :calendar: I'm open to advisory engagements and proof of concept projects, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
 <br />
 
-### 📫 Contact
+### 📫 Contact (Calendly provided upon request)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
