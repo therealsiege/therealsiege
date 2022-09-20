@@ -2,11 +2,22 @@
 
 Thanks for checking out my profile!
 
-I’ve been creating SaaS products for 15 years, many of those in regulated and gov't industries.
+:technologist: I’ve been creating SaaS products for 15 years, many of those in regulated and gov't industries.  I have an amazing wife, two awesome kids and two lazy dogs, we currently live in Nashville TN. In my spare time, I can be found playing golf :golf: or training :shark: jiu jitsu.
 <br /><br />
 :comet: Most recently, I created <img src="https://modernhl7.com/static/media/GoodbyeHL7Logo.1d5c4b476dbe518d5d3b.png" height="16">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned!
+<br /><br />
+:coffee: In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. 
+<br /><br />
+:calendar: I'm open to advisory engagements and proof of concept projects, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
+<br />
 
-:technologist: In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. I listed some highlights below.
+### 📫 Contact
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
+<br />
 
 ### ⚡ CV Highlights
 
@@ -20,12 +31,6 @@ I’ve been creating SaaS products for 15 years, many of those in regulated and 
 - Supply chain management b2b tooling for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wish_logo.svg/1200px-Wish_logo.svg.png" height="15"> and <img src="https://cdn2.hubspot.net/hubfs/2427805/TH_Logo_H@3x-1.png" height="15">
 - The predictive analytics SaaS products of [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
 
-### 📫 Contact
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 
 ### 🧰 Favorite Languages and Tools
 
