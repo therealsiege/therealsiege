@@ -10,7 +10,7 @@ Outside of work, I have a wife, two kids and two dogs. We live in Nashville TN, 
 <br /><br />
 :coffee: In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. 
 <br /><br />
-:calendar: I'm open to advisory engagements and proof of concept projects, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
+:calendar: I'm open to advisory as well as proof of concept engagements, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
 <br />
 
 ### 📫 Contact
