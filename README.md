@@ -6,7 +6,7 @@ Thanks for checking out my profile!
 <br /><br />
 :comet: Most recently, I created <img src="https://modernhl7.com/static/media/GoodbyeHL7Logo.1d5c4b476dbe518d5d3b.png" height="16">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned! 
 <br /><br />
-:coffee: In the past I've led engineering, architecture, technical product management, and product research & developement at a number of tech companies. :calendar: I'm open to advisory as well as proof of concept engagements, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
+:coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies. :calendar: I'm open to advisory as well as proof of concept engagements, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
 <br />
 
 ### 📫 Contact
