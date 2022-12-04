@@ -60,3 +60,7 @@ Thanks for checking out my profile!
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></code>
 </p>
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
+
