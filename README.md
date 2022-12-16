@@ -18,7 +18,7 @@ Thanks for checking out my profile!
 <br />
   
 
-If my advice has helped and you feel inclined, code is powered by :coffee:...<img src="https://www.buymeacoffee.com/assets/img/qr-logo.svg" width="22"><a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank">[Buy Me A Coffee](https://www.buymeacoffee.com/fuzeelogik)
+If my advice has helped and you feel inclined, code is powered by :coffee:...    <img src="https://www.buymeacoffee.com/assets/img/qr-logo.svg" width="22"><a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank">[Buy Me A Coffee](https://www.buymeacoffee.com/fuzeelogik)
 
 
 ### ⚡ CV Highlights
