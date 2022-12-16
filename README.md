@@ -4,7 +4,7 @@ Thanks for checking out my profile!
 
 :technologist: I’ve been creating SaaS products for 15 years, many of those in regulated and gov't industries.
 <br /><br />
-:comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="http://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned! 
+:comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned! 
 <br /><br />
 :coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies. :calendar: I'm open to advisory as well as proof of concept engagements, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
 <br />
@@ -17,7 +17,9 @@ Thanks for checking out my profile!
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 <br />
   
-  If my advice has helped you and you'd like to return the favor just buy me a coffee <img src="https://www.buymeacoffee.com/assets/img/qr-logo.svg" alt="buymeacoffee">
+
+If my advice has helped and you feel inclined, code is powered by :coffee:...<img src="https://www.buymeacoffee.com/assets/img/qr-logo.svg" width="22"><a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank">[Buy Me A Coffee](https://www.buymeacoffee.com/fuzeelogik)
+
 
 ### ⚡ CV Highlights
 
