@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm CJ
 
 Thanks for checking out my profile!
-
 :technologist: I’ve been creating SaaS products for 15 years, many of those in regulated and gov't industries.
 <br /><br />
 :comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We are getting ready to launch, so stay tuned! 
@@ -15,16 +14,15 @@ Thanks for checking out my profile!
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
+  <a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 73px !important;" ></a>
 <br />
   
-
-If my advice has helped and you feel inclined, code is powered by :coffee:...    <img src="https://www.buymeacoffee.com/assets/img/qr-logo.svg" width="22"><a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank">[Buy Me A Coffee](https://www.buymeacoffee.com/fuzeelogik)
-
 
 ### ⚡ CV Highlights
 
 - <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="http://modernhl7.com/" target="_blank">ModernHL7</a> - 🏗️ Coming Soon!
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's</a>&nbsp;FHIR Interoperability Middleware Engine (acquired by [HealthChannels](https://www.scribeamerica.com/)), and Bridge Connector's original interoperability SaaS platform (acquired by [Braided Technologies](https://braided.io)).
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's</a>&nbsp;FHIR Interoperability Middleware Engine (acquired by [HealthChannels](https://www.scribeamerica.com/))
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector Destinations (acquired by [Braided Technologies](https://braided.io)).
 - <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Consumer electronics trade in platform
 - <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Text book rental platform
 - <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Kindle kiosk POS system in Whole Foods
