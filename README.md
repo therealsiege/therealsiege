@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm CJ
 
 Thanks for checking out my profile!
-:technologist: I’ve been creating SaaS products for 15 years, many of those in regulated and gov't industries.
+:technologist: I’ve been creating SaaS products for 15 years.
 <br /><br />
 :comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We just launched a beta version, check it out!  
 <br /><br />
@@ -14,7 +14,7 @@ Thanks for checking out my profile!
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
-  <a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 73px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 20px !important; width: 73px !important;" ></a>
 <br />
   
 
@@ -30,7 +30,7 @@ Thanks for checking out my profile!
 - Supply chain management b2b tooling for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wish_logo.svg/1200px-Wish_logo.svg.png" height="15"> and <img src="https://cdn2.hubspot.net/hubfs/2427805/TH_Logo_H@3x-1.png" height="15">
 - The predictive analytics SaaS products of [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
 
-### 🧰 Favorite Languages and Tools
+### 🧰 Languages and Tools
 
 <p>
   <a href="https://github.com/therealsiege">
@@ -45,7 +45,7 @@ Thanks for checking out my profile!
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
