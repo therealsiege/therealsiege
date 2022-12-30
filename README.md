@@ -4,7 +4,7 @@ Thanks for checking out my profile!
 :technologist: I’ve been creating SaaS products for 15 years.
 <br /><br />
 :comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We just launched a beta version, check it out!  
-<br /><br />
+<br />
 :coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies. :calendar: I'm open to advisory as well as proof of concept engagements, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
 <br />
 
