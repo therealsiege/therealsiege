@@ -16,7 +16,6 @@ Thanks for checking out my profile!
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
   <a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 20px !important; width: 73px !important;" ></a>
 <br />
-  
 
 ### ⚡ CV Highlights
 
@@ -28,7 +27,7 @@ Thanks for checking out my profile!
 - <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Kindle kiosk POS system in Whole Foods
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png" height="16"> Seller services platform
 - Supply chain management b2b tooling for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wish_logo.svg/1200px-Wish_logo.svg.png" height="15"> and <img src="https://cdn2.hubspot.net/hubfs/2427805/TH_Logo_H@3x-1.png" height="15">
-- The predictive analytics SaaS products of [Novation Analytics](https://ihsmarkit.com/btp/novation-analytics.html)
+- [Novation Analytics's](https://ihsmarkit.com/btp/novation-analytics.html) predictive analytics SaaS suite
 
 ### 🧰 Languages and Tools
 
