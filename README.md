@@ -29,7 +29,7 @@ Thanks for checking out my profile!
 - Supply chain management b2b tooling for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wish_logo.svg/1200px-Wish_logo.svg.png" height="15"> and <img src="https://cdn2.hubspot.net/hubfs/2427805/TH_Logo_H@3x-1.png" height="15">
 - [Novation Analytics's](https://ihsmarkit.com/btp/novation-analytics.html) predictive analytics SaaS suite
 
-### 🧰 Languages and Tools
+### 🧰 Favorites
 
 <p>
   <a href="https://github.com/therealsiege">
