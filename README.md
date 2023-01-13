@@ -22,10 +22,10 @@ Thanks for checking out my profile!
 - <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="http://modernhl7.com/" target="_blank">ModernHL7</a> ⛳1PuttHealth's HL7v2 Tool
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's</a>&nbsp;"ROSA" FHIR Interoperability Middleware Engine (acquired by [HealthChannels](https://www.scribeamerica.com/))
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's </a> "Destinations" (acquired by [Braided Technologies](https://braided.io)).
-- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Consumer electronics trade in platform
-- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Text book rental platform
-- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Kindle kiosk POS system in Whole Foods
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png" height="16"> Seller services platform
+- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Amazon's Consumer electronics trade in platform
+- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Amazon's Text book rental platform
+- <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Amazon's Kindle kiosk POS system in Whole Foods
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/EBay_logo.png" height="16"> Ebay's Seller services platform
 - Supply chain management b2b tooling for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wish_logo.svg/1200px-Wish_logo.svg.png" height="15"> and <img src="https://cdn2.hubspot.net/hubfs/2427805/TH_Logo_H@3x-1.png" height="15">
 - [Novation Analytics's](https://ihsmarkit.com/btp/novation-analytics.html) predictive analytics SaaS suite
 
@@ -33,7 +33,17 @@ Thanks for checking out my profile!
 
 <p>
   <a href="https://github.com/therealsiege">
-    <img width="55%" align="right" alt="CJ's github stats" src="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true&hide_border=true&count_private=true" />
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true" />
+      </picture>
   </a>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
@@ -55,5 +65,3 @@ Thanks for checking out my profile!
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></code>  
 </p>
-
-
