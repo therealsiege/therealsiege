@@ -9,7 +9,7 @@ Thanks for checking out my profile!
 <br />
 
  <a href="https://grizzlydevelopment.com/" target="_blank">
-  <img src="https://grizzlydevelopment.com/_static/build/_assets/grizzlydev.logo-GXYQ5FXL.png" align="right" width="480" />
+  <img src="https://grizzlydevelopment.com/_static/build/_assets/grizzlydev.logo-GXYQ5FXL.png" align="right" width="400" />
 </a>
   
 ### 📫 Contact
