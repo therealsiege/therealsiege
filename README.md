@@ -6,19 +6,23 @@ Thanks for checking out my profile!
 :comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We just launched a beta version, check it out!  
 <br />
 :coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies. :calendar: I'm open to advisory as well as proof of concept engagements, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
+ 
 <br />
-
- <a href="https://grizzlydevelopment.com/" target="_blank">
-  <img src="https://grizzlydevelopment.com/_static/build/_assets/grizzlydev.logo-GXYQ5FXL.png" align="right" width="400" />
-</a>
-  
+ 
 ### 📫 Contact
-  
+ 
+<a href="https://grizzlydevelopment.com/" target="_blank">
+  <img src="https://grizzlydevelopment.com/_static/build/_assets/grizzlydev.logo-GXYQ5FXL.png" width="380" />
+</a>
+ 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
-  <a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 20px !important; width: 73px !important;" ></a>
+<a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 20px !important; width: 73px !important;" />
+</a>
+   
 <br />
 
 ### ⚡ CV Highlights
