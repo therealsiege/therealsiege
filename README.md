@@ -1,15 +1,9 @@
 ### 👋 Hi, I'm CJ
 
 Thanks for checking out my profile!
-:technologist: I’ve been creating SaaS products for 15 years.
-
-:comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 
+:technologist: I’ve been creating SaaS products for 15 years. :comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We just launched a beta version, <a href="https://modernhl7.com/" target="_blank">check it out!</a>  
  
- 📻 We just launched a beta version, <a href="https://modernhl7.com/" target="_blank">check it out!</a>  
- 
-:coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies I've also listed some career highlights further down :arrow_double_down:. 
-
-:calendar: For advisory and proof of concept engagements, we can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response. ⬇️ Other contact mediums listed below.
+:coffee: In the past I've led product and engineering at a number of technology companies. :arrow_double_down: I've listed some career highlights further down. :calendar: For advisory and proof of concept engagements, we can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response.
 
 ### 📫 Contact
 
@@ -19,10 +13,6 @@ Thanks for checking out my profile!
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 <a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 20px !important; width: 73px !important;" />
-</a>
- 
-<a href="https://grizzlydevelopment.com/" target="_blank">
-  <img src="https://grizzlydevelopment.com/_static/build/_assets/grizzlydev.logo-GXYQ5FXL.png" width="380" />
 </a>
 
 ### ⚡ CV Highlights
