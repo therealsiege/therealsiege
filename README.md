@@ -7,12 +7,10 @@ Thanks for checking out my profile!
  
  📻 We just launched a beta version, <a href="https://modernhl7.com/" target="_blank">check it out!</a>  
  
-:coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies. :calendar: 
- 
-Our team can support advisory and proof of concept engagements, we can be found at <img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16"><a href="https://grizzlydevelopment.com/" target="_blank">[GrizzlyDev](https://grizzlydevelopment.com).
+:coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies I've also listed some career highlights further down :arrow_double_down:. 
 
-:arrow_down: I've also listed some career highlights further down :arrow_double_down:.
- 
+:calendar: For advisory and proof of concept engagements, we can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response. ⬇️ Other contact mediums listed below.
+
 ### 📫 Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
