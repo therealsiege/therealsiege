@@ -3,9 +3,15 @@
 Thanks for checking out my profile!
 :technologist: I’ve been creating SaaS products for 15 years.
 
-:comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We just launched a beta version, check it out!  
+:comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 
  
-:coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies. :calendar: I'm open to advisory as well as proof of concept engagements, I've posted my contact info below :arrow_down: and listed some career highlights further down :arrow_double_down:.
+ 📻 We just launched a beta version, <a href="https://modernhl7.com/" target="_blank">check it out!</a>  
+ 
+:coffee: In the past I've led engineering, architecture, technical product management, and product research & development at a number of tech companies. :calendar: 
+ 
+Our team can support advisory and proof of concept engagements, we can be found at <img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16"><a href="https://grizzlydevelopment.com/" target="_blank">[GrizzlyDev](https://grizzlydevelopment.com).
+
+:arrow_down: I've also listed some career highlights further down :arrow_double_down:.
  
 ### 📫 Contact
 
