@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm CJ
 
 Thanks for checking out my profile!
-:technologist: I’ve been creating SaaS products for 15 years. :comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We just launched a beta version, <a href="https://modernhl7.com/" target="_blank">check it out!</a>  
+:technologist: I’ve been creating SaaS products for 15 years. :comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 📻 We just launched a beta version, <a href="https://modernhl7.com/" target="_blank">sign up for free!</a>  
  
-:coffee: In the past I've led product and engineering at a number of technology companies. :arrow_double_down: I've listed some career highlights further down. :calendar: For advisory and proof of concept engagements, we can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response.
-
+:coffee: In the past I've led product and engineering at a number of technology companies. :arrow_double_down: I've listed some career highlights further down. :calendar: For advisory and proof of concept engagements, I can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response.
+ 
 ### 📫 Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
