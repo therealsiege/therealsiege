@@ -19,7 +19,7 @@ Thanks for checking out my profile!
    />
   </kbd>
  <a/>
-<a href="https://blog.grizzlydevelopment.com/launch-ml7" target="_blank">
+<a href="https://blog.grizzlydevelopment.com/more-than-code" target="_blank">
   <kbd>
    <img 
     src="https://user-images.githubusercontent.com/34116836/220188262-6d1b0d88-8236-447c-9837-c1424c433809.png" 
@@ -30,7 +30,7 @@ Thanks for checking out my profile!
    />
   </kbd>
  <a/>
- <a href="https://blog.grizzlydevelopment.com/launch-ml7" target="_blank">
+ <a href="https://blog.grizzlydevelopment.com/fast-dev" target="_blank">
   <kbd>
    <img 
     src="https://user-images.githubusercontent.com/34116836/220188890-98925806-015e-408f-b75a-0b07bcaf1e20.png" 
