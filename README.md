@@ -13,7 +13,7 @@ Thanks for checking out my profile!
    <img 
     src="https://user-images.githubusercontent.com/34116836/220185750-f588b99c-53f3-4342-9cc0-68c4a803010c.png" 
     alt="ModernHL7 Release Post" 
-    width="280"
+    width="200"
     height="auto"
     style="border-radius:70%"
    />
@@ -24,7 +24,7 @@ Thanks for checking out my profile!
    <img 
     src="https://user-images.githubusercontent.com/34116836/220186888-fa0a1a34-f2a3-41f6-bef8-6acbab721483.png" 
     alt="More Than Code" 
-    width="280"
+    width="200"
     height="auto"
     style="border-radius:70%"
    />
@@ -35,7 +35,7 @@ Thanks for checking out my profile!
    <img 
     src="https://user-images.githubusercontent.com/34116836/220187074-d3f284ab-8d47-4b69-bbe2-65159f694ed9.png" 
     alt="Hello Stakeholder" 
-    width="280"
+    width="200"
     height="auto"
     style="border-radius:70%"
    />
