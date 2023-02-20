@@ -6,12 +6,12 @@ Thanks for checking out my profile!
  📻 We just launched a beta version, <a href="https://modernhl7.com/" target="_blank">sign up for free!</a>  
  
 :coffee: In the past I've led product and engineering at a number of technology companies. :arrow_double_down: I've listed some career highlights further down. :calendar: For advisory and proof of concept engagements, I can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response.
-
+ 
 ### Recent Articles
  <a href="https://blog.grizzlydevelopment.com/launch-ml7" target="_blank">
   <kbd>
    <img 
-    src="https://user-images.githubusercontent.com/34116836/220185750-f588b99c-53f3-4342-9cc0-68c4a803010c.png" 
+    src="https://user-images.githubusercontent.com/34116836/220188814-93e24fd5-8e69-4c84-b20e-2ac729d555c2.png" 
     alt="ModernHL7 Release Post" 
     width="246"
     height="auto"
@@ -22,7 +22,7 @@ Thanks for checking out my profile!
 <a href="https://blog.grizzlydevelopment.com/launch-ml7" target="_blank">
   <kbd>
    <img 
-    src="https://user-images.githubusercontent.com/34116836/220186888-fa0a1a34-f2a3-41f6-bef8-6acbab721483.png" 
+    src="https://user-images.githubusercontent.com/34116836/220188262-6d1b0d88-8236-447c-9837-c1424c433809.png" 
     alt="More Than Code" 
     width="246"
     height="auto"
@@ -33,7 +33,7 @@ Thanks for checking out my profile!
  <a href="https://blog.grizzlydevelopment.com/launch-ml7" target="_blank">
   <kbd>
    <img 
-    src="https://user-images.githubusercontent.com/34116836/220187074-d3f284ab-8d47-4b69-bbe2-65159f694ed9.png" 
+    src="https://user-images.githubusercontent.com/34116836/220188890-98925806-015e-408f-b75a-0b07bcaf1e20.png" 
     alt="Hello Stakeholder" 
     width="246"
     height="auto"
