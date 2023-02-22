@@ -7,7 +7,7 @@ Thanks for checking out my profile!
  
 :coffee: In the past I've led product and engineering at a number of technology companies. :arrow_double_down: I've listed some career highlights further down. :calendar: For advisory and proof of concept engagements, I can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response.
  
-### Recent Articles
+<!-- ### Recent Articles
  <a href="https://blog.grizzlydevelopment.com/launch-ml7" target="_blank">
   <kbd>
    <img 
@@ -40,7 +40,7 @@ Thanks for checking out my profile!
     style="border-radius:70%"
    />
   </kbd>
- <a/>
+ <a/> -->
 
 ### 📫 Contact
 
