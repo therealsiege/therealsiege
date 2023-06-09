@@ -67,7 +67,7 @@ Thanks for checking out my profile!
 ### 🧰 Favorites
 
 <p>
-  <a href="https://github.com/therealsiege">
+<!--   <a href="https://github.com/therealsiege">
     <picture>
       <source 
         srcset="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true&theme=dark"
@@ -79,23 +79,19 @@ Thanks for checking out my profile!
       />
       <img align="right" src="https://github-readme-stats.vercel.app/api?username=therealsiege&show_icons=true" />
      </picture>
-  </a>
+  </a> -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  
   <code><img width="10%" src="https://vectorwiki.com/images/3F9ws__remix.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
- 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+ 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg"></code>
   <code><img width="10%" src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji"></code>
- 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/intercom/intercom-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></code>  
