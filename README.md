@@ -1,9 +1,9 @@
 ### 👋 Hi, I'm CJ
 
 Thanks for checking out my profile!
-:technologist: I’ve been creating SaaS products for 15 years. :comet: Most recently, I created <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="https://modernhl7.com/" target="_blank">[ModernHL7](https://modernhl7.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 
+:technologist: I’ve been creating SaaS products for 15 years. :comet: Most recently, I created <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="https://retrohook.com/" target="_blank">[ Retrohook](https://retrohook.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 
  
- 📻 We just launched a beta version, <a href="https://modernhl7.com/" target="_blank">sign up for free!</a>  
+ 📻 We just launched a beta version, <a href="https://retrohook.com/" target="_blank">sign up for free!</a>  
  
 :coffee: In the past I've led product and engineering at a number of technology companies. :arrow_double_down: I've listed some career highlights further down. :calendar: For advisory and proof of concept engagements, I can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response.
  
@@ -54,7 +54,7 @@ Thanks for checking out my profile!
 
 ### ⚡ CV Highlights
 
-- <img src="https://modernhl7.com/ml7-logo.f2cebea2.png" width="16"><a href="http://modernhl7.com/" target="_blank">ModernHL7</a> ⛳1PuttHealth's HL7v2 Tool
+- <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="http://retrohook.com/" target="_blank"> Retrohook</a> ⛳1PuttHealth's HL7v2 Tool
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's</a>&nbsp;"ROSA" FHIR Interoperability Middleware Engine (acquired by [HealthChannels](https://www.scribeamerica.com/))
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's </a> "Destinations" (acquired by [Braided Technologies](https://braided.io)).
 - <img src="https://bardpress.com/wp-content/uploads/2021/07/amazon-smile-logo-transparent-Transparent-Images.png" height="15"> Amazon's Consumer electronics trade in platform
