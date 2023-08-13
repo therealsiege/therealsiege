@@ -1,46 +1,14 @@
 ### 👋 Hi, I'm CJ
 
 Thanks for checking out my profile!
-:technologist: I’ve been creating SaaS products for 15 years. :comet: Most recently, I created <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="https://retrohook.com/" target="_blank">[ Retrohook](https://retrohook.com), an interoperability middleware solution that enables users to surface value from legacy technologies common to healthcare since 1987. 
+:technologist: I’ve been creating SaaS products for 15 years. 
+
+:comet: We recently launched <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="https://retrohook.com/" target="_blank">[ Retrohook](https://retrohook.com), healthcare interoperability's missing link! Check out how easily it enables users to surface value from legacy technologies common to healthcare since the 1980s. 
  
- 📻 We just launched a beta version, <a href="https://retrohook.com/" target="_blank">sign up for free!</a>  
+ 📻 Get started by visiting our [product guide](https://docs.retrohook.com) or
+ <a href="https://retrohook.com/" target="_blank"> 🤠 dive in </a>  to create a free account.
  
-:coffee: In the past I've led product and engineering at a number of technology companies. :arrow_double_down: I've listed some career highlights further down. :calendar: For advisory and proof of concept engagements, I can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[GrizzlyDev](https://grizzlydevelopment.com), use our chat for fastest response.
- 
-<!-- ### Recent Articles
- <a href="https://blog.grizzlydevelopment.com/launch-ml7" target="_blank">
-  <kbd>
-   <img 
-    src="https://user-images.githubusercontent.com/34116836/220188814-93e24fd5-8e69-4c84-b20e-2ac729d555c2.png" 
-    alt="ModernHL7 Release Post" 
-    width="246"
-    height="auto"
-    style="border-radius:70%"
-   />
-  </kbd>
- <a/>
-<a href="https://blog.grizzlydevelopment.com/more-than-code" target="_blank">
-  <kbd>
-   <img 
-    src="https://user-images.githubusercontent.com/34116836/220188262-6d1b0d88-8236-447c-9837-c1424c433809.png" 
-    alt="More Than Code" 
-    width="246"
-    height="auto"
-    style="border-radius:70%"
-   />
-  </kbd>
- <a/>
- <a href="https://blog.grizzlydevelopment.com/fast-dev" target="_blank">
-  <kbd>
-   <img 
-    src="https://user-images.githubusercontent.com/34116836/220188890-98925806-015e-408f-b75a-0b07bcaf1e20.png" 
-    alt="Hello Stakeholder" 
-    width="246"
-    height="auto"
-    style="border-radius:70%"
-   />
-  </kbd>
- <a/> -->
+:coffee: For advisory and proof of concept engagements, we can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[Grizzly Develpment](https://grizzlydevelopment.com), use our chat for fastest response.
 
 ### 📫 Contact
 
@@ -51,14 +19,6 @@ Thanks for checking out my profile!
 <a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="73px" style="height: 20px !important; width: 73px !important;" />
 </a>
-
-### ⚡ CV Highlights
-
-- <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="http://retrohook.com/" target="_blank"> Retrohook</a> ⛳1PuttHealth's HL7v2 Tool
-- <img src="https://espiral.healthcare/_static/build/_assets/logo-HLIBITDH.png" width="16"><a href="http://espiral.healthcare/" target="_blank"> eSpiral</a> At-a-glance visualizations for clinicians. 
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's</a>&nbsp;"ROSA" FHIR Interoperability Middleware Engine (acquired by [HealthChannels](https://www.scribeamerica.com/))
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ztrsms0HQLkNwVzqcnXUGk-dWdYoFDxzOBxlI3u0yYz9tvjyGEN8GkgqUSBoEKma4pU&usqp=CAU" width="15"> <a href="https://www.bizjournals.com/nashville/news/2021/09/23/how-bridge-connector-collapsed.html" target="_blank"> Bridge Connector's </a> "Destinations" (acquired by [Braided Technologies](https://braided.io)).
-- [Novation Analytics's](https://ihsmarkit.com/btp/novation-analytics.html) predictive analytics SaaS suite
 
 ### 🧰 Favorites
 
