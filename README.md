@@ -6,9 +6,7 @@ Thanks for checking out my profile!
 :comet: We recently launched <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="https://retrohook.com/" target="_blank">[ Retrohook](https://retrohook.com), healthcare interoperability's missing link! Check out how easily it enables users to surface value from legacy technologies common to healthcare since the 1980s. 
  
  📻 Get started by visiting our [product guide](https://docs.retrohook.com) or
- <a href="https://retrohook.com/" target="_blank"> 🤠 dive in </a>  to create a free account.
- 
-:coffee: For advisory and proof of concept engagements, we can be found at <a href="https://grizzlydevelopment.com/" target="_blank"><img src="https://grizzlydevelopment.com/_static/build/_assets/bear-logo-GKEMQQS4.png" width="16">[Grizzly Develpment](https://grizzlydevelopment.com), use our chat for fastest response.
+ <a href="https://retrohook.com/" target="_blank"> 🤠 dive in </a> with a free account.
 
 ### 📫 Contact
 
