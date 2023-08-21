@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm CJ
 
-Thanks for checking out my profile!
-:technologist: I’ve been creating SaaS products for 15 years. 
+Thanks for checking out my profile! I'm a software engineer turned healthcare technologist, and my goal is to make it easier to leverage healthcare data.
 
 :comet: We recently launched <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="https://retrohook.com/" target="_blank">[ Retrohook](https://retrohook.com), healthcare interoperability's missing link! Check out how easily it enables users to surface value from legacy technologies common to healthcare since the 1980s. 
  
