@@ -1,13 +1,14 @@
 ### 👋 Hi, I'm CJ
 
-Thanks for checking out my profile! I'm a software engineer turned healthcare technologist, and my goal is to make it easier to leverage healthcare data.
+Thanks for checking out my profile! I'm a software engineer turned healthcare technologist, and my goal is to make it easier to leverage healthcare data. 
+For more on our work visit [🐻 Grizzly Development](https://grizzlydevelopment.com).
 
 :comet: I recently launched <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="https://retrohook.com/" target="_blank">[ Retrohook](https://retrohook.com), healthcare interoperability's missing link! Check out how easily it enables users to surface value from legacy technologies common to healthcare since the 1980s. 
  
  📻 Get started by visiting our [product guide](https://docs.retrohook.com) or
  <a href="https://retrohook.com/" target="_blank"> 🤠 dive in </a> with a free account.
 
-### 📫 Contact
+### 📫 Contact cccccbcvckv
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
