@@ -8,7 +8,7 @@ For more on our work visit [🐻 Grizzly Development](https://grizzlydevelopment
  📻 Get started by visiting our [product guide](https://docs.retrohook.com) or
  <a href="https://retrohook.com/" target="_blank"> 🤠 dive in </a> with a free account.
 
-### 📫 Contact cccccbcvckv
+### 📫 Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
