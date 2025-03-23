@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm CJ
 
 Thanks for checking out my profile! I'm a software engineer turned healthcare technologist, and my goal is to make it easier to leverage healthcare data. 
-For more on our work visit [🐻 Grizzly Development](https://grizzlydevelopment.com).
+For more on our work visit [⛳️ 1Putt Health](https://1putthealth.com).
 
 :comet: I recently launched <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="https://retrohook.com/" target="_blank">[ Retrohook](https://retrohook.com), healthcare interoperability's missing link! Check out how easily it enables users to surface value from legacy technologies common to healthcare since the 1980s. 
  
