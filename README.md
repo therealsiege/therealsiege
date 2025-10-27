@@ -1,6 +1,6 @@
-### 👋 Hi, I'm CJ
+### 👋 Hello, 
 
-Thanks for checking out my profile! I'm a software engineer turned healthcare technologist, and my goal is to make it easier to leverage healthcare data. 
+I'm [Clint Johnson](https://clint-johnson.com) and I'm a software engineer turned healthcare technologist. My goal is to make it easier to leverage healthcare data. 
 For more on our work visit [⛳️ 1Putt Health](https://1putthealth.com).
 
 ### 📫 Contact
