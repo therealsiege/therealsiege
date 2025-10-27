@@ -3,16 +3,10 @@
 Thanks for checking out my profile! I'm a software engineer turned healthcare technologist, and my goal is to make it easier to leverage healthcare data. 
 For more on our work visit [⛳️ 1Putt Health](https://1putthealth.com).
 
-:comet: I recently launched <img src="https://retrohook.com/retrohook.e88bdf28.png" width="16"><a href="https://retrohook.com/" target="_blank">[ Retrohook](https://retrohook.com), healthcare interoperability's missing link! Check out how easily it enables users to surface value from legacy technologies common to healthcare since the 1980s. 
- 
- 📻 Get started by visiting our [product guide](https://docs.retrohook.com) or
- <a href="https://retrohook.com/" target="_blank"> 🤠 dive in </a> with a free account.
-
 ### 📫 Contact
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/therealsiege)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:clint@grizzlydevelopment.com)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/therealsiege)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/fuzeelogik/)
 <a href="https://www.buymeacoffee.com/fuzeelogik" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="73px" style="height: 20px !important; width: 73px !important;" />
